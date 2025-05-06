@@ -33,13 +33,27 @@ A published notebook that supports the analysis presented in a paper on Semantic
 - Visualisation patterns and their narrative functions  
 - Preliminary conclusions on user proficiency and storytelling strategies  
 
-### `data_stories.ipynb`
+### `data_stories.ipynb` messy and old
 
 An early, exploratory notebook that served as the starting point for the project. It contains:
 - Initial parsing and inspection of data story components  
 - Manual observations and hypothesis formation  
 - Unstructured experimentation with SPARQL queries, visual elements, and JSON structure  
 - Basis for more structured analyses in later notebooks
+
+### `quality_correlation.ipynb`
+
+A notebook exploring initial correlations between structural and technical features of data stories and their perceived quality. It includes:
+- Feature extraction from each story (e.g. number and type of components, query characteristics)
+- Quality assessment based on:
+  1. Text ratio within a 40%–60% target range  
+  2. No more than 3 consecutive chart-based components  
+  3. Alignment between visualisation types and query logic  
+  4. Presence of federated queries  
+  5. Variety and sophistication of SPARQL features used  
+- Preliminary correlation analysis to identify potential predictors of quality
+
+Now we changed the assessment of data story quality (see following notebooks).
 
 
 ## License
