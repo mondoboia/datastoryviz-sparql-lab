@@ -33,6 +33,15 @@ A published notebook that supports the analysis presented in a paper on Semantic
 - Visualisation patterns and their narrative functions  
 - Preliminary conclusions on user proficiency and storytelling strategies  
 
+### `data_stories.ipynb`
+
+An early, exploratory notebook that served as the starting point for the project. It contains:
+- Initial parsing and inspection of data story components  
+- Manual observations and hypothesis formation  
+- Unstructured experimentation with SPARQL queries, visual elements, and JSON structure  
+- Basis for more structured analyses in later notebooks
+
+
 ## License
 
 This repository is released under the MIT License. See the `LICENSE` file for details.
