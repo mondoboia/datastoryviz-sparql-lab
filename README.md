@@ -7,7 +7,6 @@ This repository contains a collection of Jupyter notebooks developed as part of 
 ## Table of Contents <!-- omit from toc -->
 
 - [Objectives](#objectives)
-- [Objectives](#objectives-1)
 - [Contents](#contents)
   - [`data_stories_summary.json`](#data_stories_summaryjson)
   - [`semantic_web_storytelling_analysis.ipynb`](#semantic_web_storytelling_analysisipynb)
@@ -19,12 +18,6 @@ This repository contains a collection of Jupyter notebooks developed as part of 
   - [`info_density.ipynb`](#info_densityipynb)
   - [`good_structure.ipynb`](#good_structureipynb)
   - [`viz_number.ipynb`](#viz_numberipynb)
-
-## Objectives
-
-- Analyse the structure and components of data stories created using Semantic Web technologies.
-- Investigate the role of SPARQL queries in shaping visual and narrative outputs.
-- Explore the potential of data storytelling as a tool for fostering data and Semantic Web literacy.
 
 
 ## Objectives
