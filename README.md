@@ -33,7 +33,7 @@ A published notebook that supports the analysis presented in a paper on Semantic
 - Visualisation patterns and their narrative functions  
 - Preliminary conclusions on user proficiency and storytelling strategies  
 
-### `data_stories.ipynb` messy and old
+### `data_stories.ipynb` (messy and old)
 
 An early, exploratory notebook that served as the starting point for the project. It contains:
 - Initial parsing and inspection of data story components  
@@ -53,8 +53,34 @@ A notebook exploring initial correlations between structural and technical featu
   5. Variety and sophistication of SPARQL features used  
 - Preliminary correlation analysis to identify potential predictors of quality
 
-Now we changed the assessment of data story quality (see following notebooks).
+*Note: the approach to assessing data story quality has evolved — see later notebooks for updates.*
 
+## Evolved Framework for Assessing Data Story Quality
+
+Since the initial correlation-based analysis did not yield clear results, the notion of "data story quality" has been restructured around three distinct, measurable dimensions. Each is implemented in a dedicated notebook:
+
+### `readability.ipynb`
+
+Assesses textual readability using the **Flesch Reading Ease** score (via the [`textstat`](https://pypi.org/project/textstat/) library). The notebook:
+- Applies the readability metric to all text blocks within each story
+- Aggregates scores to derive story-level readability
+- Identifies overly complex or overly simplistic stories
+
+### `coherence.ipynb`
+
+Measures coherence using **sentence embeddings** from **SBERT (Sentence-BERT)** via the `sentence-transformers` library. The method:
+- Embeds all consecutive text blocks in a story
+- Computes cosine similarity between sentence pairs
+- Uses the **mean pairwise similarity** to quantify narrative coherence
+
+### `info_density.ipynb`
+
+Evaluates how densely packed with information each story is by combining:
+- **TF-IDF weighting** applied to all text content
+- Both **per-token** and **per-sentence** scores
+- A hybrid metric that accounts for quantity *and* concentration of informative content
+
+This shift from binary heuristics to continuous metrics enables more nuanced, scalable evaluations of storytelling quality.
 
 ## License
 
