@@ -90,6 +90,10 @@ Evaluates the structural flow of data stories based on the **alternation and var
 - Flags stories that lack a balanced alternation between narrative and data-driven elements
 - Supports the identification of structurally engaging story formats
 
+### `viz_number.ipynb`
+
+Simple analysis of the **number of visualisations** used in each data story.
+
 ## License
 
 This repository is released under the MIT License. See the `LICENSE` file for details.
