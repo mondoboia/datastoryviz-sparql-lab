@@ -12,7 +12,19 @@ This repository contains a collection of Jupyter notebooks developed as part of 
 
 ## Contents
 
-TODO
+### `data_stories_summary.json`
+
+A structured summary of multiple data stories created by students using SPARQL and Wikidata. Each entry includes:
+- The **title** of the story  
+- The **SPARQL endpoint** used (mostly Wikidata)  
+- (The **authors and curators** have been exclulded for anonomity)
+- The **sequence and types** of elements (e.g. text, visualisations, counts, searches)  
+- The **types of visualisations** used (bar charts, doughnut charts, tables, maps, etc.)  
+- The **SPARQL queries** themselves  
+- The **narrative texts** associated with each story
+
+This file serves as a foundational dataset for evaluating user approaches to query design, visualisation strategy, and narrative structuring in educational or exploratory settings.
+
 
 
 ## License
