@@ -82,6 +82,14 @@ Evaluates how densely packed with information each story is by combining:
 
 This shift from binary heuristics to continuous metrics enables more nuanced, scalable evaluations of storytelling quality.
 
+### `good_structure.ipynb`
+
+Evaluates the structural flow of data stories based on the **alternation and variety of elements**. This notebook:
+- Analyses the sequencing of component types (e.g. text, data visualisations, counts)
+- Detects long uninterrupted blocks of similar types (e.g. multiple charts without explanation)
+- Flags stories that lack a balanced alternation between narrative and data-driven elements
+- Supports the identification of structurally engaging story formats
+
 ## License
 
 This repository is released under the MIT License. See the `LICENSE` file for details.
