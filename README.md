@@ -1,27 +1,31 @@
-# storyviz-data-sparql-lab
+# storyviz-data-sparql-lab <!-- omit from toc -->
 
-## Notebooks analysing data storytelling practices, data visualisation, and SPARQL proficiency
+## Notebooks analysing data storytelling practices, data visualisation, and SPARQL proficiency <!-- omit from toc -->
 
 This repository contains a collection of Jupyter notebooks developed as part of an ongoing research project focused on data storytelling in the context of the Semantic Web. The work explores how data visualisation, narrative structures, and SPARQL querying skills intersect to support both the creation and interpretation of data-driven stories.
 
-## Table of Contents
+## Table of Contents <!-- omit from toc -->
 
-- [storyviz-data-sparql-lab](#storyviz-data-sparql-lab)
-  - [Notebooks analysing data storytelling practices, data visualisation, and SPARQL proficiency](#notebooks-analysing-data-storytelling-practices-data-visualisation-and-sparql-proficiency)
-  - [Table of Contents](#table-of-contents)
-  - [Objectives](#objectives)
-  - [Contents](#contents)
-    - [`data_stories_summary.json`](#data_stories_summaryjson)
-    - [`semantic_web_storytelling_analysis.ipynb`](#semantic_web_storytelling_analysisipynb)
-    - [`data_stories.ipynb` (messy and old)](#data_storiesipynb-messy-and-old)
-    - [`quality_correlation.ipynb`](#quality_correlationipynb)
-  - [Evolved Framework for Assessing Data Story Quality](#evolved-framework-for-assessing-data-story-quality)
-    - [`readability.ipynb`](#readabilityipynb)
-    - [`coherence.ipynb`](#coherenceipynb)
-    - [`info_density.ipynb`](#info_densityipynb)
-    - [`good_structure.ipynb`](#good_structureipynb)
-    - [`viz_number.ipynb`](#viz_numberipynb)
-  - [License](#license)
+- [Objectives](#objectives)
+- [Objectives](#objectives-1)
+- [Contents](#contents)
+  - [`data_stories_summary.json`](#data_stories_summaryjson)
+  - [`semantic_web_storytelling_analysis.ipynb`](#semantic_web_storytelling_analysisipynb)
+  - [`data_stories.ipynb` (messy and old)](#data_storiesipynb-messy-and-old)
+  - [`quality_correlation.ipynb`](#quality_correlationipynb)
+- [Evolved Framework for Assessing Data Story Quality](#evolved-framework-for-assessing-data-story-quality)
+  - [`readability.ipynb`](#readabilityipynb)
+  - [`coherence.ipynb`](#coherenceipynb)
+  - [`info_density.ipynb`](#info_densityipynb)
+  - [`good_structure.ipynb`](#good_structureipynb)
+  - [`viz_number.ipynb`](#viz_numberipynb)
+
+## Objectives
+
+- Analyse the structure and components of data stories created using Semantic Web technologies.
+- Investigate the role of SPARQL queries in shaping visual and narrative outputs.
+- Explore the potential of data storytelling as a tool for fostering data and Semantic Web literacy.
+
 
 ## Objectives
 
@@ -113,7 +117,7 @@ Evaluates the structural flow of data stories based on the **alternation and var
 
 Simple analysis of the **number of visualisations** used in each data story.
 
-## License
+## License <!-- omit from toc -->
 
 This repository is released under the MIT License. See the `LICENSE` file for details.
 
