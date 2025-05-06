@@ -25,7 +25,13 @@ A structured summary of multiple data stories created by students using SPARQL a
 
 This file serves as a foundational dataset for evaluating user approaches to query design, visualisation strategy, and narrative structuring in educational or exploratory settings.
 
+### `semantic_web_storytelling_analysis.ipynb`
 
+A published notebook that supports the analysis presented in a paper on Semantic Web storytelling. It includes:
+- Quantitative analysis of story structure and components  
+- Categorisation of SPARQL queries and their roles in narratives  
+- Visualisation patterns and their narrative functions  
+- Preliminary conclusions on user proficiency and storytelling strategies  
 
 ## License
 
