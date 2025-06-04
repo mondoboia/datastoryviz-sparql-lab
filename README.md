@@ -18,6 +18,7 @@ This repository contains a collection of Jupyter notebooks developed as part of 
   - [`info_density.ipynb`](#info_densityipynb)
   - [`good_structure.ipynb`](#good_structureipynb)
   - [`viz_number.ipynb`](#viz_numberipynb)
+  - [`metrics_summary.ipynb`](#metrics_summaryipynb)
 
 
 ## Objectives
@@ -109,6 +110,27 @@ Evaluates the structural flow of data stories based on the **alternation and var
 ### `viz_number.ipynb`
 
 Simple analysis of the **number of visualisations** used in each data story.
+
+### `metrics_summary.ipynb`
+
+Provides an **overview and correlation analysis** of five core metrics used to evaluate data stories:
+
+- **Alternation Score**
+- **Coherence Score**
+- **Information Density**
+- **Readability** (Flesch Reading Ease and normalized)
+- **SPARQL Proficiency**
+
+This notebook:
+
+- Loads and merges metric outputs from dedicated notebooks
+- Cleans and filters the data (e.g. removes stories without textual content)
+- Computes **Pearson and Spearman correlation matrices**
+- Extracts **pairwise correlation statistics** and p-values
+- Highlights **statistically significant** relationships between metrics
+
+Useful as a **comprehensive dashboard** for understanding metric interrelations and validating hypotheses about storytelling quality and SPARQL skills.
+
 
 ## License <!-- omit from toc -->
 
