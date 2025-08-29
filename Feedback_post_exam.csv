@@ -1,0 +1,107 @@
+Students Comment,Keywords,Topic,Sentiment
+The Polifonia Corpus had limited data availability,data availability,data sources,Negative
+the WIKIDATA queries often yielded discrepancies or incomplete information,data availability,data sources,Negative
+"Creating the Melody story was demanding, requiring dedicated effort to understand its workings.","learning curve, usability",melody usage,Negative
+"Some queries didn't produce desired results, necessitating multiple modifications or abandoning certain information. ","data availability, SPARQL",data sources,Negative
+"While this project was a steep learning curve, it provided valuable insights and expanded our skillset.",learning curve,general,Positive
+"Despite the challenges encountered throughout this project, it provided us with a valuable opportunity to explore the realms of music, data, and technology. We acquired new information, honed our skills, and expanded our understanding in these domains. While the project diverged from our previous experiences, it proved to be an enriching endeavor, enabling us to grow professionally and intellectually.",learning experience,general,Positive
+Melody: Easy-to-read and aesthetic graphics,"visualisations, usability",melody usage,Positive
+Melody: Possibility to visualize the queries even from outside the stories,"visualisations, usability",melody usage,Positive
+Melody: Possibility of creating very rich and detailed tables ,visualisations,melody usage,Positive
+Melody: Possibility of creating very rich and detailed tables ,visualisations,melody usage,Positive
+"As a group, we found it difficult to work on Melody stories, as we could only work from one account on a single computer",usability,melody usage,Negative
+It would be useful if we could save the project when we are working on it without publishing it.,suggestion,melody usage,Neutral
+"Some bugs: when we used the arrows to move the items up and down, they often got deleted. ",bug,melody usage,Negative
+"The colors in the wikidata syntax are very useful for distinguishing the labels, the optional items and the items. ",usability,data sources,Positive
+"Wikidata offers you many examples in different languages, through which it is possible to find some useful properties and items.",usability,data sources,Positive
+"Wikidata: It was not easy to find results. Even if the queries were correct, the corpus didn’t have enough results or sources in order to give us numbers that were useful. ",data availability,data sources,Negative
+"Wikidata: We had difficulties sometimes to find the correct queries. Ex “singer” gave us problems, and we used “musician” even if it is a more general and broader category.",SPARQL,data sources,Negative
+"Wikidata signals when you make a mistake in the query, however it does not specify the error. ",SPARQL,data sources,Negative
+Wikidata: Difficulty in finding the right properties,SPARQL,data sources,Negative
+"We started by doing some searches on the Polifonia corpus with the MusicBo module. However, we could not find much information about the artists we had in mind to analyze. MusicBo offers much data about music in Bologna and classical music in general, however, it was not possible to retrieve information about music in the world, so we opted for the Wikidata knowledge graph in general.",data availability,data sources,Negative
+challenge: Creation of the queries in proper SPARQL language,SPARQl,data sources,Negative
+challenge: Functioning of Melody,bug,melody usage,Negative
+"The project gave us the chance to learn more about music and our own culture, enabling us to back up our hypothesis.",learning,general,Positive
+Melody allowed us to combine all the information we gathered about our main topic in a visually clear and appealing way.,visualisations,communication,Positive
+Melody allowed us to combine all the information we gathered about our main topic in a visually clear and appealing way.,visualisations,melody usage,Positive
+MusicBo: shortage of data concerning the subjects of our projects,data availability,data sources,Negative
+Wikidata: difficulty to visual some image proprerly when publishing the story on melody ,bug,data sources,Negative
+"Melody: the process to change the position, delate or add a component is cumbersome.",usability,melody usage,Negative
+"Since the MusicBo KG has been extracted automatically, there are mistakes like the following: San Petronio, which is  the name of the main basilica in Bologna, is marked as a city.  That resulted in the mistake in the counter. The counter for  orchestras mentioned with Bologna should have showed a  different number: only three results of orchestras' names. What’s more, two of them definitely referred to the same  orchestra name but with a different spelling. We attempted to establish a connection between  orchestras and people mentioned. With additional variable, we retrieved results, but they  referred to San Petronio as a person or as a name for  the orchestra. We decided to explore this connection  using a more extensive KG, namely Wikidata.",data availability,data sources,Negative
+"Then we started to explore what kind of data can  be found on Wikidata about orchestras from Italy  and decided to organise them in a table. However,  the information we wanted to include in our table  is not presented for every orchestra which is why  we used the operator OPTIONAL in our query.","data availability, visualisations",data sources,Negative
+"Then we started to explore what kind of data can  be found on Wikidata about orchestras from Italy  and decided to organise them in a table. However,  the information we wanted to include in our table  is not presented for every orchestra which is why  we used the operator OPTIONAL in our query.","data availability, visualisations",melody usage,Positive
+"When we launched the query  for the map, we realized that  very few orchestras in Europe  are listed with their exact  location unlike, surprisingly,  the orchestras in Mexico.","data availability, visualisations",data sources,Negative
+"When we launched the query  for the map, we realized that  very few orchestras in Europe  are listed with their exact  location unlike, surprisingly,  the orchestras in Mexico.","data availability, visualisations",melody usage,Positive
+We encountered another  challenge while adding an action  to the data retrieved with the  operator OPTIONAL. The button for  the action appeared even when  the field for the orchestra leader  was not filled with any  information.,bug,melody usage,Negative
+"the SERVICE function, which allowed us to include data from the Wikidata endpoint and integrate it with MusicBo data in a single SPARQL query. This tool was particularly important in the creation of the story, as we were able to extend the capabilities of SPARQL and enrich our queries and to obtain more comprehensive results.","SPARQL, data availability",data sources,Positive
+SPARQL,"SPARQL, cultural insights",data sources,Positive
+"This story incorporates various elements such as counters, maps, tables, and charts to present the information in an engaging and informative manner.",visualisations,communication,Positive
+"This story incorporates various elements such as counters, maps, tables, and charts to present the information in an engaging and informative manner.",visualisations,melody usage,Positive
+"the audio player would work fine on Google Chrome, but on Safari it did not",bug,melody usage,Negative
+"Here is the line chart. You can’t see the years since they are too many, but once you click on them, they are visible",bug,melody usage,Negative
+"Through our data stories and website, our ultimate aim is to evoke a sense of wonder and foster an appreciation for the eternal and unifying power of music that surpasses geographical boundaries. ",storytelling,communication,Positive
+Our first challenge was getting familiar with SPARQL query language and HTML code. we felt a bit discouraged because our hypothesis didn't match the available data,"SPARQL, learning curve",data sources,Negative
+"Despite we found some information, we had to exclude some hypotheses related to the songwriters we chose because of the lack of data.",data availability,data sources,Negative
+"We struggled to recreate the stories many times on Melody. Moreover, the website often doesn't work at all.",bug,melody usage,Negative
+"the add text function was often used to complete the data retrieved from each query with some textual information provided from the Internet, giving a complete overview of the topic.",storytelling,communication,Positive
+"Images of members retrieved through the add action function available once set the textsearch function, providing a more visually-engaged displaying of the story.",visualisations,melody usage,Positive
+"Images of members retrieved through the add action function available once set the textsearch function, providing a more visually-engaged displaying of the story.",visualisations,communication,Positive
+"Tables were used throughout the whole process, to display data in a neater way.","visualisation, data presentation",melody usage,Positive
+"Tables were used throughout the whole process, to display data in a neater way.","visualisations, data presentation",communication,Positive
+"Query after query our story started to take shape, thanks to Melody that was very useful because it allowed us to give the story a graphical representation of results, through charts and graphs ",visualisations,communication,Positive
+"We also added some text notes to explain the data we found, to help the reader to understand what we are talking about.",storytelling,communication,Positive
+This kind of chart is very interesting because it allows the reader to understand the message in an easily and representative way.,"visualisations, clarity",communication,Positive
+Melody strength: Possibility to create datastories,storytelling,melody usage,Positive
+Melody strength: possibility to retrieve data,data retrieval,melody usage,Positive
+Melody strength: easy-to-read interface,usability,melody usage,Positive
+"Melody strength: maps, charts, textbox feature",visualisations,melody usage,Positive
+"Melody strength: maps, charts, textbox feature",visualisations,communication,Positive
+Melody strength: Possibility to link pages to our Melody data story ,embedding,melody usage,Positive
+Melody challenge: Sometimes Melody wouldn't save and publish changes,bug,melody usage,Negative
+Melody challenge: Melody might be lacking a timeline feature,suggestion,melody usage,Neutral
+find right data,data accuracy,data sources,Negative
+melody bugs,bug,melody usage,Negative
+"This project was completely different from anything we had ever done before, but it was a nice way to learn more about music, data and technology.",learning,general,Positive
+We also faced a lot of challenges with the Polifonia Corpus once we could not find enough data. The lack of data on the tools provided was so much so that we decided to change our theme.,data availability,data sources,Negative
+"We were not familiar with the tools, and we struggled to understand how they worked.",learning curve,general,Negative
+Creating the Melody story was difficult. It took many hours so we could understand how it worked.,learning curve,melody usage,Negative
+"The first challenge we had to face was the display of the images on Melody, since we got the IRI of the resource from DBpedia but not the depiction itself. In the first place, we tried to change the property from dbo:thumbnail to foaf:depiction, but in this way, we could see the images but there were multiple for each resource.",SPARQL,data sources,Negative
+"even if we used the operator DISTINCT, we got multiple results for each resource",SPARQL,data sources,Negative
+"sometimes Melody was not working properly, so we had to stop and wait until it worked again or we tried several times to upload the changes before getting the result we wanted.",bug,melody usage,Negative
+in the end we are satisfied with the outcome of the project.,learning,general,Positive
+"MELODY. This dashboarding system allowed us to process and transform the retrieved information into meaningful and interactive charts. These are crucial in enhancing readers’ understanding of the subject at hand, providing an easy-to-read visual representation of complex and multifaceted trends.",visualisations,melody usage,Positive
+"MELODY. This dashboarding system allowed us to process and transform the retrieved information into meaningful and interactive charts. These are crucial in enhancing readers’ understanding of the subject at hand, providing an easy-to-read visual representation of complex and multifaceted trends.",visualisations,communication,Positive
+"by adding a storytelling element to our data story, these data visualisation tools make the latter more engaging and memorable.","storytelling, visualization tools",communication,Positive
+"Particularly in the earlier stages of data collection, most challenges encountered stemmed from our initial unfamiliarity with the tools, and from our uncertainty about what kind of information was available to us and how it was organised within the Wikidata knowledge graph.","learning curve, data availability",data sources,Negative
+"We had to come to terms with entities lacking crucial information; in some instances, the data retrieved was either not up-to-date or even unreliable",data availability,data sources,Negative
+"Challenges with data in the long run, they pushed us to detach ourselves from the query models used in class and to adopt a creative problem-solving mindset, which turned out to be pivotal in the process of query writing.",data availability,data sources,Positive
+"Broadly speaking, the more time we spent familiarising ourselves with our tools, the easier it got to face all manner of challenges, and to create an engaging data story.",learning curve,general,Positive
+The use of data visualization played a central role not just in presenting the project's discoveries but also in enabling us to examine deeper into comprehending the data.,"visualisations, data analysis, learning",communication,Positive
+"MELODY facilitated our creation of tables, charts, and graphs, all aimed at showing the progression of indie rock music, particularly in the analysis of the musical contributions made by two iconic bands.",visualisations,communication,Positive
+lack of data or insufficient,data availability,data sources,Negative
+"It took us some time to become familiar with SPARQL queries and Melody, but we are pleased with the results of our data story","learning curve, SPARQL familiarity,",general,Positive
+the utilization of MELODY was invaluable in discovering insights and crafting a captivating story that effectively represents the evolution of indie rock music and its unforgettable bands.,"learning, storytelling",melody usage,Positive
+"visualisations, data presentation","learning, storytelling",communication,Positive
+"After getting our queries, we uploaded them on Melody and had a visual representation of the queries through the use of tables, linecharts, doughnutcharts, maps and counters. These tools were crucial in achieving our goal: getting people to know better a band that has been able to break down every barrier, coming straight to the heart.",visualisations,melody usage,Positive
+we had to change the object of our queries many times due to the lack of data available on Wikidata,data availability,data sources,Negative
+"although we could retrieve results from Wikidata Query Service, these would either not work on Melody or seem unreliable and not up to date",bug,data sources,Negative
+"Melody is rather slow at publishing stories and updating the order of the content. On top of that, it did not always save the edits made, and this forced us to do them all over again.",bug,melody usage,Negative
+"Overall, facing those challenges was rather useful, as we had the chance to put into practice the informatics skills acquired throughout the course and come up with engaging stories about some of the bands we love the most.",learning curve,general,Positive
+the lack of data on Wikidata forced us to change the object of our queries various times.,data availability,data sources,Negative
+"when results were obtained, sometimes they would look rather doubtful",data availability,data sources,Negative
+"despite following the query model to obtain a chart given during the course and the well-functioning of the query, Melody would not showcase any graphic",bug,melody usage,Negative
+"Another great challenge was given by Melody not registering some of our edits to the story, which made us do them all over again.",bug,melody usage,Negative
+"facing these challenges was rather useful, as we could employ the competences acquired through practice to try overcoming them as well as learning from our mistakes.","learning curve, skill development",general,Positive
+"Data visualization played a crucial role not only in presenting the findings of the project, but it also helped us gaining a deeper understanding of the data.","visualisations, visualisations",communication,Positive
+"Ensuring data consistency and completeness proved to be a significant problem while working with Wikidata. Some entities may have in fact limited or incomplete information, making it difficult to provide a complete analysis or narrative for these specific entities:",data availability,data sources,Negative
+"As far as MELODY is concerned, we often found ourselves with the data we needed, but had some trouble organising it according to MELODY's specific syntactic structures.",usability,melody usage,Negative
+"Familiarizing ourselves with SPARQL queries and Melody required some time, but we are satisfied with the outcome of our data story.","learning curve, SPARQL, skill development",data sources,Positive
+"Familiarizing ourselves with SPARQL queries and Melody required some time, but we are satisfied with the outcome of our data story.","learning curve, usability, skill development",melody usage,Positive
+the use of MELODY proved invaluable in uncovering insights and creating an engaging story that captures the essence of rock music’s evolution.,storytelling,communication,Positive
+The material found in this field often proved insufficient for the creation of a comprehensive story on such a specific aspect as the history of the guitar.,data availability,data sources,Negative
+"this project served also to broaden our horizons, since we continuously changed the structure of our queries, in order to retrieve always different and interesting information.","learning curve, skill development",data sources,Positive
+"MELODY proved to be crucial to put into play our creativity, since it encompassed the creation of charts and tables that could have been a pleasing view for our readers.","visualisations, storytelling",communication,Positive
+"We also tried to empathise with our users, so as to make available material that was useful to them. This once again stimulated our creativity. ",creativity,communication,Positive
+The graphical representation was in fact an important starting point that helped us to give structure and linearity to the article and subsequently also to the website.,visualisations,melody usage,Positive
+"at the beginning we thought of realising a story about the indie pop genre in Italy, but the poorness of material on Wikidata led us to change course.",data availability,data sources,Negative
+"when we finally built our complete story and tried to publish it, Melody often didn’t display some important parts, such as the actions of the text-search (which, at the end, after different attempts, appeared) and the text-boxes containing explanatory captions about the infographics.",bug,melody usage,Negative
