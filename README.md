@@ -1,6 +1,4 @@
-# storyviz-data-sparql-lab
-
-## Notebooks on data storytelling, visualisation, and SPARQL proficiency
+# Notebooks on data storytelling, visualisation, and SPARQL proficiency
 
 This repository contains Jupyter notebooks supporting a study of how Humanities students develop SPARQL skills, data visualisation literacy, and storytelling quality using the MELODY platform.
 
