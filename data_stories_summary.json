@@ -2,6 +2,7 @@
     "D-hp3wDV": {
         "title": "Italian Rock Bands",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -82,6 +83,7 @@
     "y4Srva15": {
         "title": "Russian Rock Bands",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -133,6 +135,7 @@
     "7qpfziir": {
         "title": "Exploring the Rock music genre",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -247,6 +250,7 @@
     "Nokx0yU6": {
         "title": "Jazz musicians born in Bologna",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "textsearch",
@@ -298,6 +302,7 @@
     "gz_gxhYn": {
         "title": "Theatres in the UK and classical music",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -414,6 +419,7 @@
     "U2OtB3XT": {
         "title": "The History of the Guitar",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -510,6 +516,7 @@
     "v4h_GSI0": {
         "title": "The Beatles",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 1,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -557,6 +564,7 @@
     "1ptR3pru": {
         "title": "Discovering Rock Bands in Spain",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 3,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -635,6 +643,7 @@
     "JQpdcw-d": {
         "title": "pop in bologna",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -758,6 +767,7 @@
     "B9SLlUry": {
         "title": "Discovering Rock Bands in the USA",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 3,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -828,7 +838,8 @@
     },
     "r7i-PG2n": {
         "title": "Sounds of Bologna: Exploring the MusicBo Corpus' People and Cities",
-        "sparql_endpoint": " https://polifonia.disi.unibo.it/musicbo/sparql",
+        "sparql_endpoint": "https://polifonia.disi.unibo.it/musicbo/sparql",
+        "curators": 3,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -925,6 +936,7 @@
     "AUmcnOzL": {
         "title": "Best female music artists",
         "sparql_endpoint": "https://dbpedia.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -999,6 +1011,7 @@
     "tyK82z37": {
         "title": "Exploring the life and works of Johann Sebastian Bach",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 1,
         "elements_order": {
             "1": "text",
             "2": "data viz",
@@ -1110,6 +1123,7 @@
     "IRRbkmZk": {
         "title": "Beethoven: an overview",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "data viz",
@@ -1194,6 +1208,7 @@
     "Vy4_Rxzv": {
         "title": "Rock Music: Behind the Scenes",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 3,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -1258,6 +1273,7 @@
     "M9EZmoBI": {
         "title": "Gaspare Spontini",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -1434,6 +1450,7 @@
     "uhDaBOl1": {
         "title": "Indie rock music: Blur and Sonic Youth",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 1,
         "elements_order": {
             "1": "text",
             "2": "data viz",
@@ -1543,6 +1560,7 @@
     "SXefpzf4": {
         "title": "the violin",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 1,
         "elements_order": {
             "1": "count",
             "2": "count",
@@ -1582,6 +1600,7 @@
     "EzsIH_Et": {
         "title": "Pinguini Tattici Nucleari - test",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 1,
         "elements_order": {
             "1": "data viz",
             "2": "data viz",
@@ -1642,6 +1661,7 @@
     "16FP4tfG": {
         "title": "Romanian music bands",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 1,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -1693,6 +1713,7 @@
     "sUMoEZI5": {
         "title": "Overview on Wolfgang Amadeus Mozart",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "data viz",
@@ -1819,6 +1840,7 @@
     "_HnVHPjm": {
         "title": "ABBA",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 1,
         "elements_order": {
             "1": "text",
             "2": "textsearch",
@@ -1871,6 +1893,7 @@
     "4D206Lam": {
         "title": "Imagine Dragons",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -1971,6 +1994,7 @@
     "j3ZikN40": {
         "title": "Exploring album distribution formats: 2000-2020",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -2069,6 +2093,7 @@
     "BOGODrvZ": {
         "title": "MusicBo Unveiled: Discovering Bologna's Music Organizations and the XVIII Century Violinists",
         "sparql_endpoint": "https://polifonia.disi.unibo.it/musicbo/sparql",
+        "curators": 3,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -2214,6 +2239,7 @@
     "abkhtH-r": {
         "title": "The 27 Club - The curse of the rockstars",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -2310,6 +2336,7 @@
     "Huo1mZpJ": {
         "title": "Dolly Parton: The Queen of Country Music",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 4,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -2431,6 +2458,7 @@
     "JYOzBt8Y": {
         "title": "M\u00e5neskin",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -2522,6 +2550,7 @@
     "buiNjeJj": {
         "title": "M\u00e5neskin",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -2674,6 +2703,7 @@
     "PziKYGG_": {
         "title": "The Destiny's Child",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 4,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -2779,6 +2809,7 @@
     "wa1_2kB_": {
         "title": "Exploring musical instruments: the violin",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -2946,6 +2977,7 @@
     "lkuzAhad": {
         "title": "Pink Floyd",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -3076,6 +3108,7 @@
     "jamFJtUo": {
         "title": "Exploring musical instruments: the piano",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -3196,6 +3229,7 @@
     "gzeEqkGo": {
         "title": "Lucio Dalla",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 3,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -3285,6 +3319,7 @@
     "KzqVF2Z6": {
         "title": "Red Hot Chili Peppers",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -3437,6 +3472,7 @@
     "Ww1HhAGH": {
         "title": "Melodies from the East: Uncovering Russian Classical Music in MusicBo",
         "sparql_endpoint": "https://polifonia.disi.unibo.it/musicbo/sparql",
+        "curators": 3,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -3544,6 +3580,7 @@
     "IuSofTQ_": {
         "title": "Cesare Cremonini",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 3,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -3633,6 +3670,7 @@
     "TQjKggI7": {
         "title": "Orchestra exploration on MusicBo",
         "sparql_endpoint": "https://polifonia.disi.unibo.it/musicbo/sparql",
+        "curators": 3,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -3675,6 +3713,7 @@
     "Jzaeaf75": {
         "title": "Orchestras around the world",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 3,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -3739,6 +3778,7 @@
     "SghkiaeU": {
         "title": "Raffaella Carr\u00e0",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 3,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -3828,6 +3868,7 @@
     "R2GpYpI5": {
         "title": "muBOsic, A Musical Heritage Knowledge Graph",
         "sparql_endpoint": "https://polifonia.disi.unibo.it/musicbo/sparql",
+        "curators": 1,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -3931,6 +3972,7 @@
     "l3RukqzW": {
         "title": "Gaspare Spontini",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -4090,6 +4132,7 @@
     "-QO5tO8t": {
         "title": "Exploring MusicBo dataset",
         "sparql_endpoint": "https://polifonia.disi.unibo.it/musicbo/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -4124,6 +4167,7 @@
     "N12KW_UW": {
         "title": "The Popularity of Rock Music in Emilia-Romagna",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -4218,6 +4262,7 @@
     "8TaxJyd-": {
         "title": "Popularity of Musical Artists from Emilia-Romagna",
         "sparql_endpoint": "https://dbpedia.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -4297,6 +4342,7 @@
     "a-LzrTFa": {
         "title": "ABBA - An Overview",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -4369,6 +4415,7 @@
     "mJpAWU1f": {
         "title": "Coldplay!!!",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -4498,7 +4545,8 @@
     },
     "GVfxLAss": {
         "title": "Rock 'n' Roll",
-        "sparql_endpoint": " https://query.wikidata.org/sparql",
+        "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -4570,6 +4618,7 @@
     "GENuDEXR": {
         "title": "Revolutionary Rhythms",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 2,
         "elements_order": {
             "1": "text",
             "2": "text",
@@ -4640,6 +4689,7 @@
     "GghVmi8y": {
         "title": "British Rock Bands - An Overview",
         "sparql_endpoint": "https://query.wikidata.org/sparql",
+        "curators": 1,
         "elements_order": {
             "1": "text",
             "2": "count",
@@ -4690,6 +4740,7 @@
     "6yGct8pP": {
         "title": "NDE Dataset Knowledge Graph",
         "sparql_endpoint": "https://triplestore.netwerkdigitaalerfgoed.nl/repositories/dataset-knowledge-graph",
+        "curators": 1,
         "elements_order": {
             "1": "count",
             "2": "count",
