@@ -25,6 +25,7 @@ This repository contains Jupyter notebooks supporting a study of how Humanities 
 - **`info_density.ipynb`** – Information density from TF-IDF scores. 
 - **`data_viz.ipynb`** – Use of visualisation types and their relationships with other metrics. 
 - **`curators.ipynb`** – Effects of collaboration on story quality and SPARQL skills.
+- **`sensitivity_check.ipynb`** - Sensitivity checks for correlation and clustering metrics.
 
 ### Students Feedback analysis 
 - **`sentiment_analysis.ipynb`** – Sentiment analysis of student feedback.
